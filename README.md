@@ -413,8 +413,7 @@
         color: #0073e6;
     }
 </style>
-                   https://github.com/user-attachments/assets/bf1718f9-08fb-410a-a52a-32da75521b19
-                </section>
+            ![01](https://github.com/user-attachments/assets/e5304f3c-c4d9-40b1-b297-0e44d3e16619)
     </main>
 ><Footer>Website ini dibuat untuk P5 kelas 12 Menu 1 (XIIA) semester 1 2024/2025
      ||Kelompok 3||
