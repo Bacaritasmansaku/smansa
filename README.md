@@ -202,7 +202,8 @@
 <body>
      <header>
 
-       https://github.com/user-attachments/assets/1b841fb8-d853-46d3-8241-4eab244e7f69/assets/images/electrocat.png
+       ![BACANAV1](https://github.com/user-attachments/assets/c2f0f6ee-3aad-4ee2-b773-a292a0adb4d0)
+       
         <h1>"Kamu adalah sosok yang berharga, Setiap hari kamu bertahan, adalah kemenangan."
         
         </h1>
