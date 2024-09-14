@@ -202,7 +202,7 @@
 <body>
      <header>
 
-       ![BACANAV1](https://github.com/user-attachments/assets/1b841fb8-d853-46d3-8241-4eab244e7f69)
+       https://github.com/user-attachments/assets/1b841fb8-d853-46d3-8241-4eab244e7f69
         <h1>"Kamu adalah sosok yang berharga, Setiap hari kamu bertahan, adalah kemenangan."
         
         </h1>
@@ -412,7 +412,7 @@
         color: #0073e6;
     }
 </style>
-                   ![01](https://github.com/user-attachments/assets/bf1718f9-08fb-410a-a52a-32da75521b19)
+                   https://github.com/user-attachments/assets/bf1718f9-08fb-410a-a52a-32da75521b19
                 </section>
     </main>
 ><Footer>Website ini dibuat untuk P5 kelas 12 Menu 1 (XIIA) semester 1 2024/2025
