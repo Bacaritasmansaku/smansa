@@ -202,11 +202,7 @@
 <body>
      <header>
 
-        <img src="BACANAV1.png" width="95%" hight="5%"
-        padding: 20px 0;
-        text-align: center;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        position: relative />
+       ![BACANAV1](https://github.com/user-attachments/assets/1b841fb8-d853-46d3-8241-4eab244e7f69)
         <h1>"Kamu adalah sosok yang berharga, Setiap hari kamu bertahan, adalah kemenangan."
         
         </h1>
